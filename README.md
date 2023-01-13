@@ -1,7 +1,6 @@
-# tempat_wisata
+# tempat_wisata-pt1
 
-Fatkhiya Firdausy NS
-IK2C / 3.34.21.209
+Fatkhiya Firdausy NS [IK2C / 3.34.21.2.09]
 
 ## Screenshot
 
